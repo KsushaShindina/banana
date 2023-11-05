@@ -1,0 +1,2 @@
+echo "just the two of us" >> song.txt
+echo "we can make it if we try" >> song.txt
